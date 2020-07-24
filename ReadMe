@@ -1,0 +1,31 @@
+"""
+@author: Bhrugvish Vakil
+@email: vakilb1@udayton.edu
+@date: 05-16-2020
+"""
+
+Technology used:
+
+Python  ---> Python 3.6 Version
+Pygame  ---> pip install pygame
+
+
+Algorithm to be implemented :
+
+A* Algo to optimize the solution.
+
+About 8 Number Puzzle:
+
+Puzzle having 9 tiles present in grid of 3X3. These tiles are having random numbers from 1 to 8 and No.9 Tile to be blank 'space'. You need to re-arrange them in sorted order from 1 to 8 followed by 9. Important thing you can only swap the digit horizontally or vertically with the blank tile.
+
+What this project does?
+
+It generates the random puzzle, which user can play. And also at any time he can click on the solve button to solve the existing puzzle.
+
+What you have to do ?
+
+Implement the code when user click on  solve button
+
+Run the code:
+
+Run puzzle.py file to run the code.
